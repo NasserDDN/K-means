@@ -2,17 +2,16 @@
 # Projet Big Data : Clustering avec k-Means
 
 ## Description
-Ce projet est une partie du cours de Big Data à l'ESIREM, dirigé par Natalia Kharchenko et Sergey Kirgizov. L'objectif est de se familiariser avec les techniques de clustering, en particulier l'implémentation de l'algorithme k-Means, et les techniques de visualisation de données.
+Ce projet est une partie du cours de Big Data à l'ESIREM, dirigé par Sergey Kirgizov. L'objectif est de se familiariser avec les techniques de clustering, en particulier l'implémentation de l'algorithme k-Means, et les techniques de visualisation de données.
 
 ## Technologies Utilisées
 - Python
 - NumPy
-- Pandas
 - Scikit-learn (sklearn)
 - Matplotlib
 
 ## Installation
-Pour exécuter ce projet, assurez-vous que Python est installé sur votre système, ainsi que les bibliothèques susmentionnées. Vous pouvez les installer via pip :
+Pour exécuter ce projet, clonez le projet et assurez-vous que Python est installé sur votre système, ainsi que les bibliothèques susmentionnées. Vous pouvez les installer via pip :
 ```bash
 pip install -r requirements.txt
 ```
